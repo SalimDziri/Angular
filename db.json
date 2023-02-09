@@ -1,0 +1,19 @@
+{
+  "users": [
+    {"id":1, "First_name":"user", "last_name":"1","CIN":12345671,"password":"1111"},
+    {"id":2, "First_name":"user", "last_name":"2","CIN":12345672,"password":"1112"},
+    {"id":3, "First_name":"user", "last_name":"3","CIN":12345673,"password":"1113"},
+    {"id":4, "First_name":"user", "last_name":"4","CIN":12345674,"password":"1114"}
+  ],
+  "foklifts":[
+    {"id":1, "state":"ON", "Long":"xxx", "lat":"xxx"},
+    {"id":2, "state":"ON", "Long":"xxx", "lat":"xxx"},
+    {"id":3, "state":"OFF", "Long":"xxx", "lat":"xxx"},
+    {"id":4, "state":"OFF", "Long":"xxx", "lat":"xxx"}
+  ],
+  "alerts":[
+    {"id":1, "forkliftId":1, "time":"2022-02-09 18:32:01"},
+    {"id":2, "forkliftId":2, "time":"2022-02-09 18:32:01"},
+    {"id":3, "forkliftId":3, "time":"2022-02-09 18:32:01"},
+  ]
+}

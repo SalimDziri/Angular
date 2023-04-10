@@ -31,4 +31,5 @@ How to Use:
 
 Enjoy :) :)
 
-My Name is Salim Dziri and this is my first published small website that i built while still learning, it uses 000webhosting for hosting backend so it might be a little laggy and probably cannot hold many user
+My Name is Salim Dziri and this is my first published small website that i built while still learning, it uses 000webhosting for hosting backend so it might be a little laggy and probably cannot hold many user.
+The design is mostly suitable for mobile screen, but i tried my best to make it look good in desktop screen as well

@@ -1,28 +1,11 @@
-                                                                                                                                                                     
-                                                                                                                                                                     
-MMMMMMMM               MMMMMMMM                         MMMMMMMM               MMMMMMMM                                                                              
-M:::::::M             M:::::::M                         M:::::::M             M:::::::M                                                                              
-M::::::::M           M::::::::M                         M::::::::M           M::::::::M                                                                              
-M:::::::::M         M:::::::::M                         M:::::::::M         M:::::::::M                                                                              
-M::::::::::M       M::::::::::Myyyyyyy           yyyyyyyM::::::::::M       M::::::::::M   ooooooooooo   nnnn  nnnnnnnn        eeeeeeeeeeee  yyyyyyy           yyyyyyy
-M:::::::::::M     M:::::::::::M y:::::y         y:::::y M:::::::::::M     M:::::::::::M oo:::::::::::oo n:::nn::::::::nn    ee::::::::::::ee y:::::y         y:::::y 
-M:::::::M::::M   M::::M:::::::M  y:::::y       y:::::y  M:::::::M::::M   M::::M:::::::Mo:::::::::::::::on::::::::::::::nn  e::::::eeeee:::::eey:::::y       y:::::y  
-M::::::M M::::M M::::M M::::::M   y:::::y     y:::::y   M::::::M M::::M M::::M M::::::Mo:::::ooooo:::::onn:::::::::::::::ne::::::e     e:::::e y:::::y     y:::::y   
-M::::::M  M::::M::::M  M::::::M    y:::::y   y:::::y    M::::::M  M::::M::::M  M::::::Mo::::o     o::::o  n:::::nnnn:::::ne:::::::eeeee::::::e  y:::::y   y:::::y    
-M::::::M   M:::::::M   M::::::M     y:::::y y:::::y     M::::::M   M:::::::M   M::::::Mo::::o     o::::o  n::::n    n::::ne:::::::::::::::::e    y:::::y y:::::y     
-M::::::M    M:::::M    M::::::M      y:::::y:::::y      M::::::M    M:::::M    M::::::Mo::::o     o::::o  n::::n    n::::ne::::::eeeeeeeeeee      y:::::y:::::y      
-M::::::M     MMMMM     M::::::M       y:::::::::y       M::::::M     MMMMM     M::::::Mo::::o     o::::o  n::::n    n::::ne:::::::e                y:::::::::y       
-M::::::M               M::::::M        y:::::::y        M::::::M               M::::::Mo:::::ooooo:::::o  n::::n    n::::ne::::::::e                y:::::::y        
-M::::::M               M::::::M         y:::::y         M::::::M               M::::::Mo:::::::::::::::o  n::::n    n::::n e::::::::eeeeeeee         y:::::y         
-M::::::M               M::::::M        y:::::y          M::::::M               M::::::M oo:::::::::::oo   n::::n    n::::n  ee:::::::::::::e        y:::::y          
-MMMMMMMM               MMMMMMMM       y:::::y           MMMMMMMM               MMMMMMMM   ooooooooooo     nnnnnn    nnnnnn    eeeeeeeeeeeeee       y:::::y           
-                                     y:::::y                                                                                                      y:::::y            
-                                    y:::::y                                                                                                      y:::::y             
-                                   y:::::y                                                                                                      y:::::y              
-                                  y:::::y                                                                                                      y:::::y               
-                                 yyyyyyy                                                                                                      yyyyyyy                
-                                                                                                                                                                     
-                                                                                                                                                                     
+  __  __       __  __                        
+ |  \/  |     |  \/  |                       
+ | \  / |_   _| \  / | ___  _ __   ___ _   _ 
+ | |\/| | | | | |\/| |/ _ \| '_ \ / _ \ | | |
+ | |  | | |_| | |  | | (_) | | | |  __/ |_| |
+ |_|  |_|\__, |_|  |_|\___/|_| |_|\___|\__, |
+          __/ |                         __/ |
+         |___/                         |___/ 
 
 
 MyMoney is a financial app that allows users to monitor their expenses and gain insights through its dashboard and statistics features. Users can track their daily, monthly, and yearly expenses, as well as view their total monthly expenses by category.

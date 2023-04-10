@@ -23,10 +23,12 @@ Features:
 
 How to Use:
 
-1. Sign up for a MyMoney account or log in to your existing account.
+1. Sign up for a MyMoney account or log in to the default test user (user1@mail.com / 123 )
 2. Start adding your expenses by entering the amount, description, date, and category.
 3. View your expenses on the dashboard and analyze your spending habits using the statistics feature.
 4. Monitor your daily, monthly, and yearly expenses to make informed financial decisions.
 
 
 Enjoy :) :)
+
+My Name is Salim Dziri and this is my first published small website that i built while still learning, it uses 000webhosting for hosting backend so it might be a little laggy and probably cannot hold many user

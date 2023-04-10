@@ -12,7 +12,7 @@
 
 MyMoney is a financial app that allows users to monitor their expenses and gain insights through its dashboard and statistics features. Users can track their daily, monthly, and yearly expenses, as well as view their total monthly expenses by category.
 
-Url: To be fixed (still under dev)
+Url: https://salimdziri.github.io/MyMoney/   (beta)
 
 Features:
 

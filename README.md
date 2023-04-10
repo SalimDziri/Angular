@@ -1,4 +1,5 @@
-  __  __       __  __ 
+ ```
+ __  __       __  __ 
  |  \/  |     |  \/  |
  | \  / |_   _| \  / | ___  _ __   ___ _   _ 
  | |\/| | | | | |\/| |/ _ \| '_ \ / _ \ | | |
@@ -6,6 +7,7 @@
  |_|  |_|\__, |_|  |_|\___/|_| |_|\___|\__, |
           __/ |                         __/ |
          |___/                         |___/ 
+```
 
 
 MyMoney is a financial app that allows users to monitor their expenses and gain insights through its dashboard and statistics features. Users can track their daily, monthly, and yearly expenses, as well as view their total monthly expenses by category.

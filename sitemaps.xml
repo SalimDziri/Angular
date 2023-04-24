@@ -1,0 +1,21 @@
+<!-- Note: All pages except login require authentication to access -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://salimdziri.github.io/MyMoney/login</loc>
+  </url>
+  <url>
+    <loc>https://salimdziri.github.io/MyMoney/home</loc>
+  </url>
+  <url>
+    <loc>https://salimdziri.github.io/MyMoney/dashboard</loc>
+  </url>
+  <url>
+    <loc>https://salimdziri.github.io/MyMoney/settings</loc>
+  </url>
+  <url>
+    <loc>https://salimdziri.github.io/MyMoney/home/add</loc>
+  </url>
+  <url>
+    <loc>https://salimdziri.github.io/MyMoney/dashboard/monthlyDetails/*/ *</loc>
+  </url>
+</urlset>

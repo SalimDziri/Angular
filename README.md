@@ -31,7 +31,7 @@ How to Use:
 ![Screenshot from 2023-04-10 14-38-01](https://github.com/SalimDziri/MyMoney/assets/81697965/246999b8-6d7f-4d68-8d85-f6ade2487b34)
 2. Start adding your expenses by entering the amount, description, date, and category.
 <p align="center">
-  <img src="https://github.com/SalimDziri/MyMoney/assets/81697965/744c4bac-0262-4f38-87cc-cc7f33610321" alt="Screenshot">
+  <img src="https://github.com/SalimDziri/MyMoney/assets/81697965/ee05dfb0-6b18-42ee-af1e-ba6c94feaa3e" alt="Screenshot">
 </p>
 4. View your expenses on the dashboard and analyze your spending habits using the statistics feature.
 <p align="center">

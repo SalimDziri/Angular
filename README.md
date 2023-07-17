@@ -28,9 +28,19 @@ Features:
 How to Use:
 
 1. Sign up for a MyMoney account or log in to the default test user (user1@mail.com / 123 )
+![Screenshot from 2023-04-10 14-38-01](https://github.com/SalimDziri/MyMoney/assets/81697965/246999b8-6d7f-4d68-8d85-f6ade2487b34)
 2. Start adding your expenses by entering the amount, description, date, and category.
-3. View your expenses on the dashboard and analyze your spending habits using the statistics feature.
-4. Monitor your daily, monthly, and yearly expenses to make informed financial decisions.
+<p align="center">
+  <img src="https://github.com/SalimDziri/MyMoney/assets/81697965/744c4bac-0262-4f38-87cc-cc7f33610321" alt="Screenshot">
+</p>
+4. View your expenses on the dashboard and analyze your spending habits using the statistics feature.
+<p align="center">
+  <img src="https://github.com/SalimDziri/MyMoney/assets/81697965/05066792-8c7f-4774-a8a8-181317d75fb9" alt="Screenshot">
+</p>
+5. Monitor your daily, monthly, and yearly expenses to make informed financial decisions.
+<p align="center">
+  <img src="https://github.com/SalimDziri/MyMoney/assets/81697965/5ecd3a4d-17ec-4209-9b2a-403394d2c027" alt="Screenshot">
+</p>
 
 
 Enjoy :) :)

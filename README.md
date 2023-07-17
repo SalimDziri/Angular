@@ -6,7 +6,7 @@
  | |  | | |_| | |  | | (_) | | | |  __/ |_| |
  |_|  |_|\__, |_|  |_|\___/|_| |_|\___|\__, |
           __/ |                         __/ |
-         |___/                         |___/ 
+         |___/                         |___/   beta-0.18.1
 ```
 
 My Name is Salim Dziri and this is my first published small website that i built while still learning, it uses 000webhosting for hosting backend so it might be a little laggy and probably cannot hold many user.
